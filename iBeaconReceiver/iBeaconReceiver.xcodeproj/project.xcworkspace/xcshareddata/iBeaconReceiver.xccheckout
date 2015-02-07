@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3D1E653-843B-4B51-91FA-F15DC7B72E67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iBeaconReceiver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAE5F1A48C151D28AD1D3C86337775D233CD48AE</key>
+		<string>https://github.com/AkaBeacon/iPhone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iBeaconReceiver/iBeaconReceiver.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAE5F1A48C151D28AD1D3C86337775D233CD48AE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AkaBeacon/iPhone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAE5F1A48C151D28AD1D3C86337775D233CD48AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAE5F1A48C151D28AD1D3C86337775D233CD48AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
